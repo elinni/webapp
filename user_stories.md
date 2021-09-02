@@ -1,6 +1,6 @@
 ### Oppgave 1  
 
-## User stories
+## 5 User stories
 
 1. As an administrator, **I want to be able to make exams**, so that the students can take online exams. 
 
